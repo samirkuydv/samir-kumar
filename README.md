@@ -38,4 +38,3 @@ I'm on a mission to master Artificial Intelligence, Machine Learning, Data Scien
 
 ## 🔗 Connect With Me
 - Email: *samirkuyadav1@gmail.com*  
-- GitHub: **[github.com/samir-kumar](https://github.com/samir-kumar)**
